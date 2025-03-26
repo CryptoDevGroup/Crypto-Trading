@@ -29,4 +29,4 @@ To get started with the project, clone the repository and install the necessary 
 git clone https://github.com/CryptoDevGroup/Crypto-Trading.git
 cd Crypto-Trading
 npm i
-npm start
+npm run dev
